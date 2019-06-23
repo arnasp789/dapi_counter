@@ -1,6 +1,6 @@
 # dapi_counter
 
-Fiji macro for counting/analyzing dapi channel on HeLa cells Fiji sample image. Fiji properties: 
+Fiji macro for counting/analyzing dapi channel on HeLa cells Fiji sample image. Fiji requirements, summarised by utility plugin "ImageJ Properties": 
 
   java.version: 1.8.0_172
   java.vendor: Oracle Corporation
@@ -11,10 +11,8 @@ Fiji macro for counting/analyzing dapi channel on HeLa cells Fiji sample image. 
   IJ.getVersion: 2.0.0-rc-69/1.52n
   IJ.getFullVersion: 1.52n99
   IJ.javaVersion: 8
-  IJ.isLinux: false
-  IJ.isMacintosh: false
-  IJ.isMacOSX: false
+  
   IJ.isWindows: true
-  IJ.is64Bit: true
+  
 
-No plugins used
+No plugins used for analysis 
